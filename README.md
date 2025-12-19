@@ -1,7 +1,8 @@
 # Hi there 👋
 
-## I'm  yusir8
-I'm a 13 y/0 Frontend learner who does thing no asked for!
+# Intoduction
+## Who am I?
+I'm Yasir or yusir8 (username). I'm a 13 y/o Frontend learner who does thing no asked for!
 
 ## What Project am i working on?
 Currently i'm working on **Project U**
