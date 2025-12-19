@@ -1,6 +1,7 @@
 # Hi there 👋
 
-### I'm  yusir8
+## I'm  yusir8
+I'm a Frontend learner who does thing no asked for!
 
 <!--
 **yusir8/yusir8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
