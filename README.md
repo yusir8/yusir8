@@ -4,7 +4,7 @@
 I'm a 13 y/0 Frontend learner who does thing no asked for!
 
 ## What Project am i working on?
-### Currently i'm working on Project U
+Currently i'm working on **Project U**
 
 <!--
 **yusir8/yusir8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
