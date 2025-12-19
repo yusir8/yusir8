@@ -1,8 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
->I'm  yusir8
-<h3>I'm currently learning frontend. But I want expend it further like learning backend.</h3>
-I'm currently working on Project U a re-creational of Wii U menu
+##I'm  yusir8
+
 <!--
 **yusir8/yusir8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
