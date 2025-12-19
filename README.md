@@ -1,5 +1,3 @@
-# Hi there 👋
-
 # Intoduction
 ## Who am I?
 I'm Yasir or yusir8 (username). I'm a 13 y/o Frontend learner who does thing no asked for!
