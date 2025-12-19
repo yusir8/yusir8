@@ -4,7 +4,7 @@
 I'm Yasir or yusir8 (username). I'm a 13 y/o Frontend learner who does thing no asked for!
 
 ## What Project am i working on?
-Currently i'm working on **Project U**
+Currently i'm working on **Project U** ### As of right now
 
 <!--
 **yusir8/yusir8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
