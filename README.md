@@ -1,4 +1,4 @@
-# Intoduction
+<!-- # Intoduction
 
 ## 🤔 Who am I?
 I'm Yasir or yusir8 (username). I'm a 13 y/o Frontend learner who does thing no asked for!
@@ -7,7 +7,7 @@ I'm Yasir or yusir8 (username). I'm a 13 y/o Frontend learner who does thing no 
 Currently i'm working on **Project U** 
 
 ## 🌱 What are you currently learning about?
-Currently i'm learning about web dev.
+Currently i'm learning about web dev. -->
 <!--
 **yusir8/yusir8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
